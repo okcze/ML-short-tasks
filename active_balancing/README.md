@@ -1,2 +1,2 @@
-Quick implementation of new balancing mechanism.  
+Quick implementation of a new class balancing mechanism.  
 Tested with bank marketing data and XGBoost algorithm.
